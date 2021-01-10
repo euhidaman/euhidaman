@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/euhidaman?template=classic&isocalendar=1&languages=1&pagespeed=1&pagespeed.detailed=true&pagespeed.screenshot=true&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/euhidaman?template=classic&base.repositories=0&isocalendar=1&languages=1&pagespeed=1&stars=1&pagespeed.detailed=true&pagespeed.screenshot=true&isocalendar.duration=half-year&stars.limit=4&config.timezone=Asia%2FCalcutta)
