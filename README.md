@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/euhid aman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="euhid aman" height="30" width="40" /></a>
-<a href="https://fb.com/euhid aman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="euhid aman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/euhid-aman-524965200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="euhid-aman-524965200" height="30" width="40" /></a>
+<a href="https://fb.com/unknownaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="unknownaman" height="30" width="40" /></a>
 <a href="https://instagram.com/aman_euhid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aman_euhid" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/euhidaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="euhidaman" height="30" width="40" /></a>
 </p>
