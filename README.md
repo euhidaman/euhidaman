@@ -29,7 +29,7 @@ I am also a **β Microsoft Learn Student Ambassador** and **Postman Student Expe
 <a href="https://www.java.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
 <a href="https://www.c.com/" target="blank"><img align="center" src="https://img.shields.io/badge/C-E34C0?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
 <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://img.shields.io/badge/MySQL-E34C0?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=whitee" alt="SQLite" /></a>
+<a href="https://www.sqlite.org/index.html" target="blank"><img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=whitee" alt="SQLite" /></a>
 <a href="https://www.reactjs.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" /></a>
 <a href="https://www.github.com/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-F29F35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.heroku.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" /></a>
