@@ -17,7 +17,6 @@ I am also a **β Microsoft Learn Student Ambassador** and **Postman Student Expe
 <a href="https://instagram.com/aman_euhid" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aman_euhid"/></a>
 <a href="https://medium.com/@euhidaman" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@euhidaman" /></a><a href="https://www.hackerrank.com/euhidaman" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="euhidaman" /></a>
 <a href="https://www.leetcode.com/euhidaman" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="euhidaman" /></a>
-
 </p>
 
 
@@ -30,11 +29,13 @@ I am also a **β Microsoft Learn Student Ambassador** and **Postman Student Expe
 <a href="https://www.c.com/" target="blank"><img align="center" src="https://img.shields.io/badge/C-E34C0?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
 <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://img.shields.io/badge/MySQL-E34C0?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
 <a href="https://www.sqlite.org/index.html" target="blank"><img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=whitee" alt="SQLite" /></a>
+<a href="https://www.npmjs.com/" target="blank"><img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /></a>
 <a href="https://www.reactjs.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" /></a>
 <a href="https://www.github.com/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-F29F35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.heroku.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" /></a>
 <a href="https://www.tailwindcss.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" /></a>
 <a href="https://www.bootstrapcdn.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+<a href="https://material-ui.com" target="blank"><img align="center" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui" /></a>
 <a href="https://git-scm.com" target="blank"><img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
 <a href="https://firebase.google.com" target="blank"><img align="center" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" /></a>
 <a href="https://www.netlify.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" /></a>
