@@ -1,11 +1,14 @@
-## Hey everyone, I'm Euhid Aman 👋
+p## Welcome to my Profile !! 👋
 ![github-propic](https://user-images.githubusercontent.com/65843257/132175758-adfdc850-9622-4817-8543-3de139938a31.png)
 
-Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator :microphone:. You'll often catch me at an event or speaking on stage! Well, not so much at the moment, but you'll probably find me on a live stream instead!
+Hello everyone !! I am **Euhid Aman**, a passionate **Full Stack Developer**.<br/>
+I am currently doing my **B.Tech** in the field of **Computer Science and Engineering** from **Presidency University, Bangalore**.<br/>
+I am a **self-taught** and **self-motivated** person who is always looking for new challenges and **learning new things**.<br/>
+Along, with contributing to Open-Source projects, I also like to share my knowledge and skills with others, by conducting various **Webinars** and **Workshops**.<br/>
+I am also a **β Microsoft Learn Student Ambassador** and **Postman Student Expert**.<br/>
 
-<!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
 
-### Find me all around the web:
+### Find me all around the Web:
 
 <p align="left">
 <a href="https://linkedin.com/in/euhid-aman-524965200" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="euhid-aman-524965200"  /></a>
@@ -14,43 +17,30 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 <a href="https://instagram.com/aman_euhid" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aman_euhid"/></a>
 <a href="https://medium.com/@euhidaman" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@euhidaman" /></a><a href="https://www.hackerrank.com/euhidaman" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="euhidaman" /></a>
 <a href="https://www.leetcode.com/euhidaman" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="euhidaman" /></a>
+
 </p>
 
-<!-- TODO add in the rest of the URLs here -->
+
+### Tools and Technologies I am familiar with:
+<p align="left >
+<a href="https://www.python.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python" /></a>
+<a href="https://www.java.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
+<a href="https://www.c.com/" target="blank"><img align="center" src="https://img.shields.io/badge/C-E34C0?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
+<a href="https://www.mysql.com/" target="blank"><img align="center" src="https://img.shields.io/badge/MySQL-E34C0?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=whitee" alt="SQLite" /></a>
+<a href="https://www.sqlite.org/" target="blank"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></a>
+<a href="https://www.reactjs.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" /></a>
+<a href="https://www.github.com/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-F29F35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.heroku.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Heroku-F29F35?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" /></a>
+<a href="https://www.tailwindcss.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" /></a>
+<a href="https://www.bootstrapcdn.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+<a href="https://git-scm.com" target="blank"><img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
+<a href="https://firebase.google.com" target="blank"><img align="center" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" /></a>
+</p>
 
 
+## My Cool GitHub Stats
 
-<!--
-
-- [Twitter](http://twitter.com/MishManners) :bird:
-- [Instagram](http://instagram.com/mishmanners_) 📸
-- [Twitch](http://twitch.tv/MishManners) 📺 
-- [LinkedIn](http://linkedin.com/in/mishmanners) 👩‍💻
-- [YouTube](http://youtube.com/c/MishManners) 📽 
-- [MishManners®™ website](http://mishmanners.com) 🌐 
-- [Hackathon Queen®™ blog](https://hackathongoddess.wordpress.com/) 🌐
-
--->
-
-### Watch, read, and catch up on content:
-- [GitHub blog articles](https://github.blog/author/mishmanners/) :book:
-- [Esports and gaming articles](https://www.upcomer.com/author/michelle-mannering/) :notebook:
-- [DEV.to blog posts](https://dev.to/mishmanners) ✍️
-- [Past Twitch streams](https://www.twitch.tv/mishmanners/videos?filter=highlights&sort=time) :bookmark:
-- [Talks and presentations](https://michellemannering.wordpress.com/recorded-presentations/) :books:
-- [Buy merchandise](https://merch.streamelements.com/mishmanners/) 🛒
-- [Buy even more merchandise](https://www.redbubble.com/people/MishManners/shop) 🛍️
-
-### Some Fun Facts about me:
-:zap: I've founded a few companies in the past. I love playing video games which you'll find over on my [Twitch Channel](http://twitch.tv/MishManners). On my channel, I also do live coding! I'm super into sports, including lots of outdoors adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, but for now, follow me online, jump in on my Twitch chats, or chat me at a virtual conference!
-
-## GitHub Stats
-
-If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. It's a 3D visualisation of your contribution graph. You can view the graphic, make a video, download the STL file, and even view it in Virtual Reality. You can also view the ASCII file and if you know the code combination, you can view the Konami code (コナミコマンド).
-
-As for the charts 🥧, if you like my A+ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
-
-<img src="https://github.com/euhidaman/euhidaman/blob/master/ezgif-4-5370f601a9b3.gif" width="400">
 <img src="https://github-readme-stats.vercel.app/api?username=euhidaman&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for euhidaman" width="700">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=euhidaman&theme=jolly" width="700">
