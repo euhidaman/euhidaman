@@ -29,7 +29,7 @@ I am also a **β Microsoft Learn Student Ambassador** and **Postman Student Expe
 <a href="https://www.c.com/" target="blank"><img align="center" src="https://img.shields.io/badge/C-E34C0?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
 <a href="https://html.com" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
 <a href="https://www.css.com/" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-F34B7D?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
 <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://img.shields.io/badge/MySQL-E34C0?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
 <a href="https://www.sqlite.org/index.html" target="blank"><img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=whitee" alt="SQLite" /></a>
 <a href="https://www.npmjs.com/" target="blank"><img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /></a>
