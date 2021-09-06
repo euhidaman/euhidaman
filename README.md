@@ -3,12 +3,12 @@
 
 Hello everyone !! I am **Euhid Aman**, a passionate **Full Stack Developer**.<br/>
 I am currently doing my **B.Tech** in the field of **Computer Science and Engineering** from **Presidency University, Bangalore**.<br/>
-I am a **self-taught** and **self-motivated** person who is always looking for new challenges and **learning new things**.<br/>
+I am a **self-taught** and **self-motivated** person who is always looking for new challenges and learning new things.<br/>
 Along, with contributing to Open-Source projects, I also like to share my knowledge and skills with others, by conducting various **Webinars** and **Workshops**.<br/>
 I am also a **β Microsoft Learn Student Ambassador** and **Postman Student Expert**.<br/>
 
 
-### Find me all around the Web:
+## Find me all around the Web :
 
 <p align="left">
 <a href="https://linkedin.com/in/euhid-aman-524965200" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="euhid-aman-524965200"  /></a>
@@ -21,7 +21,7 @@ I am also a **β Microsoft Learn Student Ambassador** and **Postman Student Expe
 </p>
 
 
-### Tools and Technologies I am familiar with:
+## Tools and Technologies use by me :
 <p align="left >
 <a href="https://www.sqlite.org/" target="blank"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></a>
 <a href="https://www.djangoproject.com" target="blank"><img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" /></a>
