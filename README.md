@@ -1,6 +1,5 @@
 ## Hey everyone, I'm Euhid Aman 👋
-
-
+![github-propic](https://user-images.githubusercontent.com/65843257/132175758-adfdc850-9622-4817-8543-3de139938a31.png)
 
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator :microphone:. You'll often catch me at an event or speaking on stage! Well, not so much at the moment, but you'll probably find me on a live stream instead!
 
