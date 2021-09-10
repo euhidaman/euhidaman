@@ -8,7 +8,7 @@ Along, with contributing to Open-Source projects, I also like to share my knowle
 I am also a **β Microsoft Learn Student Ambassador** and **Postman Student Expert**.<br/>
 
 
-## Find me all around the Web :
+## 🌎Find me all around the Web :
 
 <p align="left">
 <a href="https://linkedin.com/in/euhid-aman-524965200" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="euhid-aman-524965200"  /></a>
@@ -20,7 +20,7 @@ I am also a **β Microsoft Learn Student Ambassador** and **Postman Student Expe
 </p>
 
 
-## Tools and Technologies used by me :
+## 🛠Tools and Technologies used by me :
 <p align="left >
 <a href="https://www.sqlite.org/" target="blank"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></a>
 <a href="https://www.djangoproject.com" target="blank"><img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" /></a>
@@ -44,15 +44,14 @@ I am also a **β Microsoft Learn Student Ambassador** and **Postman Student Expe
 <a href="https://www.netlify.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" /></a>
 </p>
 
+## 📈 Check out my GitHub Stats :
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=euhidaman&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=euhidaman&theme=tokyonight" />
+</p>
 
-## My Cool GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=euhidaman&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for euhidaman" width="700">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=euhidaman&theme=jolly" width="700">
-
-
-### Watch my contribution graph get eaten by the snake 🐍
+### 🐍 Watch a Snake eat my Contribution Graph :
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![euhidaman snake gif](https://github.com/euhidaman/euhidaman/blob/output/github-contribution-grid-snake.svg)
