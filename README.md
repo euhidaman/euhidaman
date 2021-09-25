@@ -21,7 +21,7 @@ I am also a **β Microsoft Learn Student Ambassador** and **Postman Student Expe
 
 
 ## 🛠Tools and Technologies used by me :
-<p align="left >
+<p align="left">
 <a href="https://reactjs.org/" target="blank"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></a>
 <a href="https://www.djangoproject.com" target="blank"><img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" /></a>
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python" /></a>
