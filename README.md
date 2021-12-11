@@ -1,53 +1,39 @@
-## Welcome to my Profile !! 👋
+<h2 align="center">Hello 👋, Welcome to my profile !!</h2>
+
 ![github-propic](https://user-images.githubusercontent.com/65843257/132175758-adfdc850-9622-4817-8543-3de139938a31.png)
 
 Hello everyone !! I am **Euhid Aman**, a passionate **Full Stack Developer**.<br/>
 I am currently doing my **B.Tech** in the field of **Computer Science and Engineering** from **Presidency University, Bangalore**.<br/>
 I am a **self-taught** and **self-motivated** person who is always looking for new challenges and learning new things.<br/>
 Along, with contributing to Open-Source projects, I also like to share my knowledge and skills with others, by conducting various **Webinars** and **Workshops**.<br/>
-I am also a **β Microsoft Learn Student Ambassador** and **Postman Student Expert**.<br/>
+I am also a **β Microsoft Learn Student Ambassador** and **Codechef-Competitive Programming Lead**.<br/>
 
 
-## 🌎Find me all around the Web :
-
-<p align="left">
-<a href="https://linkedin.com/in/euhid-aman-524965200" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="euhid-aman-524965200"  /></a>
-<a href="http://twitter.com/euhidaman" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="euhid-aman-twitter"  /></a>
-<a href="https://fb.com/unknownaman" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unknownaman" /></a>
-<a href="https://instagram.com/aman_euhid" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aman_euhid"/></a>
-<a href="https://medium.com/@euhidaman" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@euhidaman" /></a><a href="https://www.hackerrank.com/euhidaman" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="euhidaman" /></a>
-<a href="https://www.leetcode.com/euhidaman" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="euhidaman" /></a>
-</p>
-
-
-## 🛠Tools and Technologies used by me :
-<p align="left">
-<a href="https://reactjs.org/" target="blank"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></a>
-<a href="https://www.djangoproject.com" target="blank"><img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" /></a>
-<a href="https://www.python.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python" /></a>
-<a href="https://www.java.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
-<a href="https://www.c.com/" target="blank"><img align="center" src="https://img.shields.io/badge/C-E34C0?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
-<a href="https://html.com" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
-<a href="https://www.css.com/" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-F34B7D?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
-<a href="https://www.mysql.com/" target="blank"><img align="center" src="https://img.shields.io/badge/MySQL-E34C0?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-<a href="https://www.sqlite.org/index.html" target="blank"><img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=whitee" alt="SQLite" /></a>
-<a href="https://www.npmjs.com/" target="blank"><img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" /></a>
-<a href="https://www.github.com/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-F29F35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.heroku.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" /></a>
-<a href="https://www.tailwindcss.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" /></a>
-<a href="https://www.bootstrapcdn.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
-<a href="https://material-ui.com" target="blank"><img align="center" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui" /></a>
-<a href="https://git-scm.com" target="blank"><img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
-<a href="https://firebase.google.com" target="blank"><img align="center" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" /></a>
-<a href="https://www.netlify.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" /></a>
-</p>
-
-## 📈 Check out my GitHub Stats :
+<h2 align="center">Social Links 🔗 </h2>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=euhidaman&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=euhidaman&theme=tokyonight" />
+<a href="https://github.com/euhidaman" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>  
+ <a href="https://www.linkedin.com/in/euhid-aman-524965200/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> </a> 
+ <a href="https://www.instagram.com/aman_euhid/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a> 
+  <a href="https://www.twitter.com/euhidaman/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a> 
+  <a href="https://www.codechef.com/users/euhidaman" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'></a> 
+  <a href="
+<a href="https://euhidaman.medium.com/" target="_blank"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>  </a> 
+</p>
+
+
+<h2 align="center">🛠Tools and Technologies used by me :</h2>
+
+
+
+
+
+<p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+
+<h2 align="center">📈 Check out my GitHub Stats :</h2>
+<p align="center">
+  <img width="48%" height="full" src="https://github-readme-stats.vercel.app/api?username=euhidaman&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=euhidaman&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </p>
 
 
