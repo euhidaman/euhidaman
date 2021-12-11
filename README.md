@@ -1,6 +1,7 @@
 <h2 align="center">Hello 👋, Welcome to my profile !!</h2>
 
-![github-propic](https://user-images.githubusercontent.com/65843257/132175758-adfdc850-9622-4817-8543-3de139938a31.png)
+![euhidaman-banner](https://user-images.githubusercontent.com/65843257/145684779-4b22db7b-c5fb-433f-996a-c694d61308b2.png)
+
 
 Hello everyone !! I am **Euhid Aman**, a passionate **Full Stack Developer**.<br/>
 I am currently doing my **B.Tech** in the field of **Computer Science and Engineering** from **Presidency University, Bangalore**.<br/>
