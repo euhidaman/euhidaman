@@ -36,7 +36,6 @@ I am also a **β Microsoft Learn Student Ambassador** and **Codechef-Competitive
 
 <h2 align="center">My GitHub Stats 📈 </h2>
 
- <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=euhidaman.euhidaman" /> </p>
 <p align="center">
   <img width="48%" height="full" src="https://github-readme-stats.vercel.app/api?username=euhidaman&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=euhidaman&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
